@@ -10,7 +10,7 @@ La plantilla es un sistema sencillo para registro y Login de usuarios realizada 
 
 La finalidad de esta plantilla es mostrar de una manera sencilla la forma de realizar una sincronización entre una aplicación Java y un archivo de base de datos SQLite.
 
-Espero que sea útil.
+Espero que les resulte útil.👍
 
 Segmento: 
 🎓 Tutorial
@@ -20,17 +20,16 @@ Segmento:
 
 _Funcionamiento_
 
-```
+
 El usuario selecciona alguna de las opciones que se despliegan. Estas opciones realizarán consultas SQL a la base de datos embebida. 
-```
+
 
 _Sobre el proyecto_
 
-```
 Esta realizada en Eclipse, para una fácil personalización y edición del código.
 
 Para la base de datos se utilizó SQLite. La misma esta embebida dentro de la aplicación, en un archivo de base de datos alojado en la carpeta “Modelo” dentro del proyecto.
-```
+
 
 
 
